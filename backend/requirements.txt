@@ -1,0 +1,5 @@
+uvicorn
+fastapi
+python-multipart
+deepgram-sdk
+openai==0.28
