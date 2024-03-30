@@ -1,5 +1,7 @@
 ## DialogDive-Video-Talk-Transcriber Architecture
 
+**DialogDive-Video-Talk-Transcriber** is an project that revolutionizes the way we understand conversations by offering sentiment analysis on audio and video files. With speaker-wise breakdowns, it provides valuable insights into the emotional tone of each participant, enabling users to gain deeper understanding and actionable insights from their interactions.
+
 ### Frontend
 The frontend of the DialogDive-Video-Talk-Transcriber project is built using ReactJS. ReactJS provides a powerful framework for building user interfaces with reusable components. In addition to ReactJS, basic styling is applied using CSS to enhance the visual presentation of the application.
 
